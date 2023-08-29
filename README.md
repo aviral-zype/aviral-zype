@@ -20,11 +20,13 @@ I'm a dedicated software developer with a strong focus on frontend technologies.
 
 I've had the privilege of contributing to several exciting projects that showcase my frontend skills and programming proficiency. Here are a few highlights:
 
-1. **E-commerce Website:** Developed a fully-fledged e-commerce platform using React, allowing users to browse products, add them to the cart, and complete the checkout process seamlessly.
+1. **Video Ads Schdeule Plugin:** An open-source Ad Scheduling Plugin for VideoJS, allowing you to schedule advertisements at your desired moments during video playback. Explore it [here](https://github.com/aviral-zype/videojs-vast-plugins)
+  
+3. **E-commerce Website:** Developed a fully-fledged e-commerce platform using React, allowing users to browse products, add them to the cart, and complete the checkout process seamlessly.
 
-2. **Task Management App:** Created a task management application with real-time updates using React and Firebase. Users can collaborate on tasks, assign deadlines, and track progress effortlessly.
+4. **Task Management App:** Created a task management application with real-time updates using React and Firebase. Users can collaborate on tasks, assign deadlines, and track progress effortlessly.
 
-3. **Portfolio Website Template:** Designed a customizable portfolio template for fellow developers to showcase their work. The template is built with React and offers easy integration with various content sources.
+5. **Portfolio Website Template:** Designed a customizable portfolio template for fellow developers to showcase their work. The template is built with React and offers easy integration with various content sources.
 
 ## Let's Connect
 
