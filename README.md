@@ -16,6 +16,10 @@ I'm a dedicated software developer with a strong focus on frontend technologies.
 
 - **Problem Solver:** As a developer, I thrive on solving challenges. Whether it's debugging intricate issues, optimizing performance, or finding creative solutions to implementation roadblocks, I approach problems with a systematic and analytical mindset.
 
+## 📈 GitHub Stats
+
+![Aviral's GitHub stats](https://github-readme-stats.vercel.app/api?username=aviral-zype&show_icons=true&theme=radical)
+
 ## My Projects
 
 I've had the privilege of contributing to several exciting projects that showcase my frontend skills and programming proficiency. Here are a few highlights:
