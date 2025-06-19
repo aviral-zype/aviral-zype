@@ -4,7 +4,7 @@ Hello there! 👋 Welcome to my GitHub profile. I'm excited to share my journey 
 
 ## About Me
 
-I'm a dedicated software developer with a strong focus on frontend technologies. Over the course of my 3+ years of professional experience, I've had the opportunity to work on a variety of projects, honing my skills and deepening my understanding of the ever-evolving world of web development.
+I'm a dedicated software developer with a strong focus on frontend technologies. Over the course of my 5+ years of professional experience, I've had the opportunity to work on a variety of projects, honing my skills and deepening my understanding of the ever-evolving world of web development.
 
 ## What I Bring to the Table
 
