@@ -1,4 +1,4 @@
-# Frontend Developer with 5+ Years of Experience in React and JavaScript
+# Heavy Frontend Fullstack Developer with 5+ Years of Experience in React and JavaScript
 
 Hello there! 👋 Welcome to my GitHub profile. I'm excited to share my journey as a frontend developer specializing in React and JavaScript. If you're looking for someone who's passionate about creating intuitive and visually appealing user interfaces, you're in the right place.
 
